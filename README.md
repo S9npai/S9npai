@@ -1,11 +1,11 @@
 
 # About Me
 
-<h3 align=center>Generalist Learner · Learning and Sharing · Linux & nvim user btw</h3>
+<h4 align=center>Generalist Learner · SWE · Linux & nvim user btw</h4> <br>
 
 ***CS Student & Competitive Programmer***, *Passionate about **Software Engineering, Algorithms & Mathematics***
 
-*Ongoing Endeavors: **[Software Engineering, Computer Systems, Machine Learning]***
+*Ongoing Endeavors := **[Software Engineering, Computer Systems, Machine Learning]***
 
 
 ### 🦾 Projects
