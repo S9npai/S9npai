@@ -1,7 +1,7 @@
 
 # About Me
 
-<h4 align=center>Generalist Learner · Linux & nvim user btw</h4>
+<h3 align=center>Generalist Learner · Learning and Sharing · Linux & nvim user btw</h3>
 
 ***CS Student & Competitive Programmer***, *Passionate about **Software Engineering, Algorithms & Mathematics***
 
