@@ -1,11 +1,24 @@
 
 # About Me
 
-<h3 align=center>Generalist Learner · SWE · Linux & nvim user btw</h3> <br>
+<h3 align=center>Generalist · SWE · Linux & nvim user btw</h3> <br>
 
 ***CS Student & Competitive Programmer***, *Passionate about **Software Engineering, Algorithms & Mathematics***
 
-***Ongoing Endeavors = [Software Engineering, Computer Systems, Machine Learning]***
+
+```python
+class Senpai:
+    def __init__(self):
+        self.identity = "Software Engineer"
+        self.education = "B.Sc in CS"
+        
+    def ongoing_endeavours(self):
+        return [
+            "Software Engineering",
+            "Computer Systems",
+            "AI & Machine Learning"
+        ]
+```
 
 
 ### 🦾 Projects
