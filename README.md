@@ -22,7 +22,7 @@ class Senpai:
 
 
 ### 🦾 Projects
-- [**Katana Shell**](https://github.com/S9npai/Katana_Shell) — A POSIX-compliant UNIX shell
+- [**Katana Shell**](https://github.com/S9npai/Katana-Shell) — A POSIX-compliant UNIX shell
 - [**AniXapi**](https://github.com/S9npai/AniXapi) — An Anime platform RESTful API for managing & rating Anime collections
 - [**Dotfiles**](https://github.com/S9npai/Dotfiles) — My linux dots
 
