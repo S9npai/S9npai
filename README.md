@@ -3,7 +3,8 @@
 
 <h3 align=center>Generalist · SWE · Linux & nvim user btw</h3> <br>
 
-**CS Student & Competitive Programmer**, *Passionate about **Software Engineering, Algorithms & Mathematics***
+**CS Student & Competitive Programmer**
+*Passionate about **Software Engineering, Algorithms & Mathematics***
 
 ```Go
 package main
@@ -39,23 +40,14 @@ func main() {
 		"Tools":     {"Git", "Linux"},
 	}
 
-	fmt.Printf("[INIT] User: %s | Kernel: %s\n", me.Identity, me.Kernel)
-	
-	for category, techs := range stack {
-		fmt.Printf("[LOAD] %-10s: %v\n", category, techs)
-	}
-
 
 	go func() {
-		endeavours := []string{
+		CurrentEndeavours := []string{
 			"Machine Learning & Mathematics",
 			"Competitive Programming",
-			"Computer Systems & Low-Level Systems"
+			"Computer Systems & Low-Level"
 		}
-		for _, obj := range objectives {
-			fmt.Printf("[CRON] Executing: %s\n", obj)
-		}
-	}()
+	}
 }
 
 ```
